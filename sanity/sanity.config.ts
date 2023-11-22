@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'blog with nextjs',
+  title: 'edgeware-blog',
 
-  projectId: 'bm7vww2e',
+  projectId: 'w489wx3t',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
